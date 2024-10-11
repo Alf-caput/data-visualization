@@ -10,6 +10,8 @@
                 "workbench.iconTheme": "vscode-icons",
                 //Python
                 "python.terminal.executeInFileDir": true,
+                // Jupyter
+                "notebook.lineNumbers": "on",
                 // Code Runner
                 "code-runner.fileDirectoryAsCwd": true,    
                 "code-runner.runInTerminal": true
@@ -19,6 +21,8 @@
                 "vscode-icons-team.vscode-icons",
                 // Python
                 "donjayamanne.python-extension-pack",
+                // Jupyter
+                "ms-toolsai.jupyter",
                 // Code Runner
                 "formulahendry.code-runner"
             ]
