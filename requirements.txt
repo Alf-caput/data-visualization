@@ -2,3 +2,4 @@ ipykernel
 plotly-express
 nbformat
 pandas
+statsmodels
